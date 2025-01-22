@@ -1,2 +1,2 @@
 # JavaScript
-this repository content about js that i have learned from Hitesh sir
+this repository contains about js that i have learned from Hitesh sir
